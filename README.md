@@ -29,7 +29,7 @@ Each report will include:
 - **Environment** — browser/OS/device, app version, build/test data used
 
 Plan:
-- Pull real bugs found during manual/UI/API testing work done so far (internship testing, SauceDemo automation, Postman/Reqres testing) rather than inventing artificial ones — makes them defensible in an interview if asked "walk me through a bug you found."
+- Pull real bugs found during manual/UI/API testing work done so far (SauceDemo automation, Postman/Reqres testing)
 - Cover a mix of bug types across the 5 reports: at least one UI bug, one API/backend bug, one edge-case/negative-scenario bug, and one data-validation bug, to show range.
 - Save as a single markdown file (`bug-reports.md`) with each report clearly separated by heading.
 
