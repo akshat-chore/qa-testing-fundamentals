@@ -1,4 +1,4 @@
-# Week 3 — SQL for Testers & Performance Testing Basics 5
+# Week 3 — SQL for Testers & Performance Testing Basics 6
 
 ## Status: In Progress
 
